@@ -1,16 +1,18 @@
 # expense_planner
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## Information
 
-This project is a starting point for a Flutter application.
+Track your Expenses on a daily routine the app is in working state.
 
-A few resources to get you started if this is your first Flutter project:
+Still Improving Gui. Feel free to contribute.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Guide 
+
+Clone the rep and open in VSCode preferably 
+ 
+You can export a .apk file if you would like to use it.
+
+The date and time will automatically be set to the current one so that's one feature I still have to add.
